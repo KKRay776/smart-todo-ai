@@ -1,0 +1,5 @@
+# install these before running the app
+# transformers is optional but needed for task summarization
+
+dateparser
+transformers
